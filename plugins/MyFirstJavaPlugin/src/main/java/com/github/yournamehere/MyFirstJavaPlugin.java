@@ -1,4 +1,4 @@
-package com.github.yournamehere;
+package com.github.faseeh8988;
 
 import android.content.Context;
 import com.aliucord.api.CommandsAPI;
